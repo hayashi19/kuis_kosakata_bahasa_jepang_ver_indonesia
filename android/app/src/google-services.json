@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268660495517",
+    "project_id": "kuis-kosakata-bahasa-jepang",
+    "storage_bucket": "kuis-kosakata-bahasa-jepang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268660495517:android:3246fb209dea4a19eb3074",
+        "android_client_info": {
+          "package_name": "com.japanesequiz.user0412"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268660495517-hrhe3et4dme8ndae2b3afqucugsvtsrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM5cAgRhNlcTx5pnFbZhibihziOxtjmIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268660495517-hrhe3et4dme8ndae2b3afqucugsvtsrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
